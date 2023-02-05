@@ -18,8 +18,8 @@ This IOT project was done for Placement Day using ESP32.
 | `/ac/on` | `None` | Turns the AC On|
 | `/light/off` | `None` | Turns the Light Off|
 | `/ac/on` | `None` | Turns the AC On|
-| `/dust` | `string` | Reads the Dust Sensor data and Sends it in JSON|
-| `/ledSense` | `string` | Reads the LDR data and Sends it in JSON|
+| `/dust` | `JSON` | Reads the Dust Sensor data and Sends it in JSON|
+| `/ledSense` | `JSON` | Reads the LDR data and Sends it in JSON|
 
 
 
